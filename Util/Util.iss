@@ -5,7 +5,7 @@
 
 [Setup]
 AppName=Util Catalog
-AppVersion=1.5.1
+AppVersion=1.5.2
 AllowRootDirectory=yes
 AllowCancelDuringInstall=yes
 ArchitecturesAllowed=x86 x64
