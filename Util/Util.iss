@@ -4,20 +4,34 @@
 ; C:\Util catalog
 
 [Setup]
-AppName=Util Catalog
-AppVersion=1.5.2
+AppName=Utilities Exponenta Plugin
+AppVersion=1.5.3.0
 AllowRootDirectory=yes
-AllowCancelDuringInstall=yes
 ArchitecturesAllowed=x86 x64
-Compression=lzma2/max
+Compression=lzma
 DefaultDirName={%UTIL|c:\Util}
-MinVersion=6.0.6001
+MinVersion=0,5.01.2600sp3
 SetupLogging=yes
 UsePreviousAppDir=yes
 DisableStartupPrompt=yes
 Output=yes
 OutputDir=d:\Download
 OutputBaseFilename=UtilSetup
+AppCopyright=Copyright (c) Yuri A. Denisov 1992-2019
+RestartIfNeededByRun=False
+AppPublisher=Юрий А. Денисов 9yudenisov)
+AppPublisherURL=http://anticriminalonline.ru/
+AppSupportURL=http://yudenisov.ru/
+AppContact=yudenisov@mail.ru
+AppSupportPhone=+79047071125
+UserInfoPage=True
+VersionInfoVersion=1.5.3.0
+VersionInfoCompany=New Internet Technologies Ltd.
+VersionInfoCopyright=Copyright (c) Yuri A. Denisov 1992-2019
+VersionInfoProductName=Utilities Exponenta Plugin
+VersionInfoProductVersion=1.5.3.0
+SolidCompression=True
+InternalCompressLevel=max
 
 [Files]
 
