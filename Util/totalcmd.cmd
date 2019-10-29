@@ -1,2 +1,2 @@
 @echo off
-start tc.cmd
+start %UTIL%\tc.cmd
