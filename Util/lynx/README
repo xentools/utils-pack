@@ -1,0 +1,45 @@
+Lynx Browser 2.8.5rel.1
+WWW text browser
+
+
+
+I have edited the lynx.cfg file to make this a stable, fast and versatile but always secure text browser - the standard config file is included, though, in the main installation directory as lynx.cfg.dist
+
+For some reson it is not possible to pre-configure the JUMPFILE instruction to work on every system - you may want to edit it yourself, following the example in lynx.cfg. For creating your own jumpfile, edit jumps.htm, following the example.
+
+If you see strange characters on the screen, you also may want to edit the option CHARACTER_SET in lynx.cfg: for some reason cp850 to me seems the most versatile!
+
+Another customizable feature is the Lynx Style Sheet (*.lss), which is called for in the lynx.bat. You can change the *.lss file to any one in the lynx directory, or make your own, personal style sheet, following the examples.
+
+
+Have fun, and do not hesitate to contact me if you have any questions or suggestions.
+
+csant
+
+
+csant@csant.info
+
+
+==============================================================
+Lynx distribution
+
+Lynx is distributed under the GNU General Public License, which is
+included in both the source and executable distributions. See the file
+named "COPYING" for the complete text.
+
+Copyrights held by the University of Kansas, CERN, and other
+contributors.
+==============================================================
+
+Full sources are available on http://lynx.isc.org/release/
+and its mirrors.
+
+----------------------------
+See http://lynx.browser.org/
+----------------------------
+
+==============================================================
+The bynary files of this distribution can be found on the following website:
+
+http://www.pervalidus.net/cygwin/lynx/
+==============================================================
